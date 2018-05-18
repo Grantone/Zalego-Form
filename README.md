@@ -5,7 +5,7 @@ This is an application for an interview to taste skills on web and languages to 
 
 ## Description/User Requirements
 <ul>
-  <li>Fill in the user details. <li>
+  <li>Fill in the user details.<li>
   <li>Being able to submit the form. <li>
 
 <ul>
@@ -16,20 +16,20 @@ Follow the following steps:
 * <a href="https://github.com/Grantone/Zalego-Form">Clone</a> To the repo
 
 * Create and start a virtual environment
-  <ul>
-    <li><code>virtualenv env</code></li>
-    <li><code>source env/bin/activate</code></li>
-  </ul>
+<ul>
+  <li><code>virtualenv env</code></li>
+  <li><code>source env/bin/activate</code></li>
+</ul>
 
 * Install all the dependencies in the file > requirements.txt
-  <ul>
-    <li><code>pip install -r requirements.txt</code></li>
-   </ul>
+<ul>
+  <li><code>pip install -r requirements.txt</code></li>
+</ul>
 
 * Start the development server
-  <ul>
-    <li><code>python3.6 manage.py runserver</code></li>
-  </ul>
+<ul>
+  <li><code>python3.6 manage.pyrunserver</code></li>
+</ul>
 
 ## Prerequisites
 <ul>
