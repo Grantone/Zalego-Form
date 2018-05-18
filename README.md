@@ -30,13 +30,13 @@ Follow the following steps:
   <li><code>python3.6 manage.pyrunserver</code></li>
 </ul>
 
-##Prerequisites
+## Prerequisites
 <ul>
   <li>Python3.6</li>
   <li>Django</li>
  </ul>
 
-##Technologies used
+## Technologies used
 <ul>
   <li>Python3.6</li>
   <li>Django</li>
@@ -44,7 +44,7 @@ Follow the following steps:
   <li>Bootstrap3</li>
  </ul>
 
-##Known Bugs
+## Known Bugs
 <ul>
   <li>To be able to fill the form because of errors due to Internet issues not able to test my code. <li>
   <li> To display the form on the index page. <li>
